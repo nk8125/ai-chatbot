@@ -17,7 +17,7 @@ You will also need to obtain an OpenAI API key and set it as an environment vari
 To run the chatbot, run the following command:
 
 ```
-python chatbot.py
+python app.py
 ```
 
 This will start the web interface for the chatbot. To use the chatbot, simply type a message into the input box and press "Enter". The chatbot will generate a response and display it in the output box.
